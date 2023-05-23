@@ -1,0 +1,5 @@
+CuSO4 + NaOH = Na2SO4 + Cu(OH)2
+Mg + HCl = MgCl2 + H2
+Fe2O3 + H2SO4 = Fe2(SO)4 + H2O
+Al + H2SO4 = Fe2(SO4)3 + H2O
+Al2(SO4)3 + NaOH = Na2SO4 + Al(OH)3
